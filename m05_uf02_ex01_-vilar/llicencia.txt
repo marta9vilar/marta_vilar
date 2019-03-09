@@ -1,0 +1,12 @@
+Jo e triat la llicencia de GNU 
+perque crec que es la mes correcte per el funcionament
+ que vols crear en aquet cas i tambe perque es publica
+ Actualment, la major part del les llibreries de GNU estan cobertes per la LGPL; això significa que només estem seguint una de les dues estratègies, descuidant l'altra. Per això estem procurant que més biblioteques es publiquin sota la GPL ordinària.
+
+Els desenvolupadors de programari privatiu tenen l'avantatge dels diners;
+ els desenvolupadors de programari lliure necessiten obtenir avantatges
+ d'altres desenvolupadors com ells. Utilitzar la GPL ordinària en una biblioteca
+ dóna als programadors lliures un avantatge sobre els desenvolupadors de programari 
+propietari: una biblioteca que ells poden utilitzar i els programadors propietaris no.
+
+https://www.gnu.org/licenses/lgpl.html
